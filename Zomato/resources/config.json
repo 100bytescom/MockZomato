@@ -1,0 +1,20 @@
+{
+	"openId": 	{
+		"idpName" : "Google",
+		"configUrl": "https://accounts.google.com/.well-known/openid-configuration",
+		"apiKey": "XXXXXXXXXXXXXXXXXXXXXXXXXx.apps.googleusercontent.com",
+		"credentials": "XXXXXXXXXXXXXX"
+	},
+	"cities" : [
+		"Bangalore",
+		"Mumbai",
+		"Delhi",
+		"Kolkata",
+		"Chennai",
+		"Coimbatore"
+	],
+	"zomatoConfig": {
+		"url": "https://developers.zomato.com/api/v2.1",
+		"apiKey" : "XXXXXXXXXXXXX"
+	}
+}
